@@ -1,0 +1,1 @@
+This project is created to give a try to various approaches to document generation for .Net
